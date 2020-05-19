@@ -79,10 +79,10 @@
 			<properties>
 				 <!-- <sonar.host.url>http://localhost:9010</sonar.host.url> --> 
 
-				 <sonar.projectKey>c-hari_harirepo</sonar.projectKey>
-				<sonar.organization>c-hari</sonar.organization>
-				<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-				<sonar.login>061fa026cbe7d635245a84983bf3482ba1a3fcee</sonar.login> 
+				 <sonar.projectKey>c-hari_sonarrepo</sonar.projectKey>
+				  <sonar.organization>c-hari</sonar.organization>
+				  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+				  <sonar.login>a6e5c186e83e23b13f8606bef59c666828628578</sonar.login>
 			</properties>
 		</profile>
 
